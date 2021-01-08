@@ -908,3 +908,52 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.08-19.34.03:681][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2021.01.08-19.34.03:703][348]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
 [2021.01.08-19.34.03:703][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.08-19.41.27:156][732]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.01.08-19.41.27:156][732]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.01.08-19.41.28:302][847]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.41.29:401][969]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.41.30:775][ 88]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.41.30:792][ 88]LogToolMenus: Warning: Failed to find menu: LocalizationDashboard.MainMenu for LocalizationDashboard.MainMenu
+[2021.01.08-19.42.23:216][863]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.43.27:730][276]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.01.08-19.43.27:730][276]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.01.08-19.43.49:148][912]LogSlate: Window 'Localization Dashboard' being destroyed
+[2021.01.08-19.43.49:150][912]LogSlate: Window 'Localization Dashboard' being destroyed
+[2021.01.08-19.44.43:075][377]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.44.43:403][406]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.44.44:014][457]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.44.44:023][457]LogToolMenus: Warning: Failed to find menu: LocalizationDashboard.MainMenu for LocalizationDashboard.MainMenu
+[2021.01.08-19.44.59:147][ 86]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.45.00:508][ 86]LogSlate: Window 'Change Native Culture' being destroyed
+[2021.01.08-19.45.00:515][ 86]Message dialog closed, result: Yes, title: Change Native Culture, text: This action can not be undone and all translations be permanently lost. Are you sure you would like to set the native culture to English?
+[2021.01.08-19.45.19:485][313]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.45.45:693][309]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2021.01.08-19.45.45:833][309]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.46.08:203][309]LogSlate: Window 'Gather Text for Target Game' being destroyed
+[2021.01.08-19.46.10:194][424]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TranslationEditor' in 0.0003 seconds. Added 3 classes and 0 folders.
+[2021.01.08-19.46.10:198][424]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.46.10:222][424]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.46.10:252][424]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.48.44:265][979]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.01.08-19.48.44:265][979]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.01.08-19.49.16:637][453]LogSlate: Window 'en - Game - Translation Editor' being destroyed
+[2021.01.08-19.49.16:645][453]LogSlate: Window 'en - Game - Translation Editor' being destroyed
+[2021.01.08-19.49.26:633][874]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.49.26:651][874]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.49.26:679][874]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.51.43:589][554]LogSlate: Window 'es - Game - Translation Editor' being destroyed
+[2021.01.08-19.51.43:597][554]LogSlate: Window 'es - Game - Translation Editor' being destroyed
+[2021.01.08-19.51.47:335][815]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.51.53:762][253]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.54.05:902][648]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.54.07:219][775]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.54.08:334][899]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.54.09:906][ 47]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.54.10:510][ 92]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.54.11:850][210]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.54.13:405][345]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.54.14:731][479]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.54.15:058][479]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.01.08-19.56.08:193][859]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.08-19.56.18:876][347]LogSlate: Window 'Localization Dashboard' being destroyed
+[2021.01.08-19.56.18:885][347]LogSlate: Window 'Localization Dashboard' being destroyed
