@@ -1,6 +1,10 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# wea de visual que pesa mucho
+Binaries/
+Saved/
+
 # Compiled Object files
 *.slo
 *.lo

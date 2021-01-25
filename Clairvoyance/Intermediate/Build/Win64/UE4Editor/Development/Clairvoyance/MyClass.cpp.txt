@@ -1,0 +1,2 @@
+C:\Users\chris\Documents\GitHub\Clairvoyance\Clairvoyance\Intermediate\Build\Win64\UE4Editor\Development\Clairvoyance\Definitions.Clairvoyance.h
+C:\Users\chris\Documents\GitHub\Clairvoyance\Clairvoyance\Source\Clairvoyance\MyClass.h

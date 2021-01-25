@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\chris\\Documents\\GitHub\\Clairvoyance\\Clairvoyance\\Source\\Clairvoyance\\Clairvoyance.Build.cs",
+		"C:\\Users\\chris\\Documents\\GitHub\\Clairvoyance\\Clairvoyance\\Plugins\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"C:\\Users\\chris\\Documents\\GitHub\\Clairvoyance\\Clairvoyance\\Plugins\\AdvancedSessions\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+		"C:\\Users\\chris\\Documents\\GitHub\\Clairvoyance\\Clairvoyance\\Source\\Clairvoyance.Target.cs",
+		"C:\\Users\\chris\\Documents\\GitHub\\Clairvoyance\\Clairvoyance\\Source\\ClairvoyanceEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.0"
+}

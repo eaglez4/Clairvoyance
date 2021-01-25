@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Clairvoyance",
+			"Path": "C:\\Users\\chris\\Documents\\GitHub\\Clairvoyance\\Clairvoyance\\Source\\Clairvoyance.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ClairvoyanceEditor",
+			"Path": "C:\\Users\\chris\\Documents\\GitHub\\Clairvoyance\\Clairvoyance\\Source\\ClairvoyanceEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
